@@ -1,0 +1,4 @@
+Tema proiectului: Analiza comportamentului muzical și influența asupra stării psihice
+
+Descrierea proiectului: Acest proiect își propune analiza relației dintre obiceiurile de ascultare a muzicii și sănătatea mentală a utilizatorilor, utilizând datasetul Music & Mental Health Survey Results de pe Kaggle. Datasetul conține informații despre preferințele muzicale, timpul petrecut ascultând muzică și niveluri auto-raportate de anxietate, depresie sau alte stări psihologice.
+Scopul principal este identificarea unor corelații între tiparele de consum muzical și starea mentală a utilizatorilor. Proiectul va include analiza datelor pentru evidențierea unor tipare relevante, precum și aplicarea unor tehnici de machine learning.
