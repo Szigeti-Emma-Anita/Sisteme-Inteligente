@@ -1,0 +1,4 @@
+Tema proiectului: Music Listening Behavior Analysis & Recommendation System
+
+Descriere: Acest proiect își propune analiza comportamentului utilizatorilor pe o platformă de streaming muzical folosind datasetul de tip listening history de pe Kaggle. Datasetul conține informații despre activitatea utilizatorilor, precum timpul de ascultare, artiștii preferați și tiparele de consum muzical.
+Scopul principal este identificarea unor tipare în comportamentul de ascultare (de exemplu: când ascultă utilizatorii muzică, ce artiști sau genuri preferă și cât de des revin la aceleași melodii), precum și dezvoltarea unui model simplu de recomandare muzicală.
