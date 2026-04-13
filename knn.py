@@ -27,8 +27,8 @@ y = df['Depression_Cat']
 # impartim datele: 80% pentru antrenare și 20% pentru testare
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# initializam modelul KNN (pentru început alegem 5 vecini)
-knn = KNeighborsClassifier(n_neighbors=5)
+# initializam modelul KNN
+knn = KNeighborsClassifier(n_neighbors=3)
 
 # antrenăm modelul
 knn.fit(X_train, y_train)
